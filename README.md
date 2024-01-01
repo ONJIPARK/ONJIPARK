@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my page.
-I'm Onji Park, RPA Developer from South Korea.
+--> I'm Onji Park, RPA Developer from South Korea.
